@@ -1,0 +1,4 @@
+interface:
+  display_name: "冰岛申根签证材料准备与复核"
+  short_description: "从 VFS 官方下载到逐项材料准备、交叉复核和打印提交"
+  default_prompt: "使用 $prepare-iceland-schengen-visa，从 VFS 官方文件开始，为我生成冰岛个人旅游申根签证逐项准备与打印清单。"
